@@ -1,0 +1,8 @@
+all: app main.o funcdef.o
+funcdef.o: funcdef.c
+		gcc -c funcdef.c
+main.o: main.c
+		gcc -c main.c
+app: funcdef.o main.o
+	gcc -o app main.o funcdef.o
+ 
