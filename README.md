@@ -1,4 +1,4 @@
-# HospitalMgmntAVL
+# Hospital Record Management Using AVL Trees
 Hospital Management system in C language using AVL Trees
 
 
