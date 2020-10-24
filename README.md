@@ -12,14 +12,14 @@ Hospital Management system in C language using AVL Trees
 
 ## Project In Action
 Main menu
-<img src="https://prnt.sc/v5xiko"/><br>
+[<img src="https://prnt.sc/v5xiko"/>]<br>
 Adding a patient
-<img src="https://prnt.sc/v5xjtv"/><br>
+[<img src="https://prnt.sc/v5xjtv"/>]<br>
 Display all patients
-<img src="https://prnt.sc/v5xk9y"/><br>
+[<img src="https://prnt.sc/v5xk9y"/>]<br>
 Finding a patient
-<img src="https://prnt.sc/v5xkmj"/><br>
+[<img src="https://prnt.sc/v5xkmj"/>]<br>
 Removing a patient
-<img scr="https://prnt.sc/v5xlzh"/><br>
+[<img scr="https://prnt.sc/v5xlzh"/>]<br>
 
 
