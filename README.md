@@ -25,6 +25,6 @@ Finding a patient<br>
 <img src="https://user-images.githubusercontent.com/56666788/97082552-2b8b8980-1628-11eb-98c0-957f0c5c1392.png"/><br>
 Removing a patient<br>
 <hr>
-<img scr="https://user-images.githubusercontent.com/56666788/97082553-2b8b8980-1628-11eb-8845-53ee8962ae3a.png"/><br>
+<img src="https://user-images.githubusercontent.com/56666788/97082553-2b8b8980-1628-11eb-8845-53ee8962ae3a.png"/><br>
 
 
