@@ -73,6 +73,7 @@ int main()
             break;
 
         case 3:
+            system("cls");
             printf("\nEnter ID of patient to be searched:\t");
             scanf("%d",&key);
             temp=search(root,key);
@@ -80,6 +81,7 @@ int main()
             clr();
             break;
         case 4:
+            system("cls");
             printf("\nEnter ID of patient to be removed from database:\t");
             scanf("%d",&dkey);
             temp=search(root,dkey);
@@ -94,6 +96,7 @@ int main()
             clr();
             break;
         case 5:
+            system("cls");
             printf("\n");
             print2DUtil(root,0);
             clr();
